@@ -1,0 +1,16 @@
+.auth-wrapper{
+    background-color: rgb(105, 105, 196);
+    height: 100vh;
+}
+.Loginform{
+    background-color: white;
+}
+.Signupform{
+    background-color: white;
+    border-color: black;
+    border: 5px;
+}
+.auth-inner{
+    align-items: center;
+    justify-content: center;
+}
